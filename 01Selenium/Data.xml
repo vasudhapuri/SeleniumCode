@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cricketers>
+  <cricketer>
+    <firstName>Sunil</firstName>
+    <lastName>Gavaskar</lastName>
+    <enrollmentDate>01/05/1975</enrollmentDate>
+  </cricketer>
+  <cricketer>
+    <firstName>Dilip</firstName>
+    <lastName>Vengsarkar</lastName>
+    <enrollmentDate>09/15/1979</enrollmentDate>
+  </cricketer>
+  <cricketer>
+    <firstName>Gundappa</firstName>
+    <lastName>Vishwanath</lastName>
+    <enrollmentDate>11/12/1974</enrollmentDate>
+  </cricketer>
+</cricketers>
